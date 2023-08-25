@@ -9,4 +9,6 @@
 - 🚀 Python, Javascript, HTML & CSS
 - 💻 Visual Studio Code
 
+# 📊 Stats
+
 <img src="https://myreadme.vercel.app/api/embed/NoahPrm?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
