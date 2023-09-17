@@ -1,3 +1,4 @@
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1100777508829397043/1153011976239321248/Noah2-modified.png" height="128" width="128"></p>
 <h1 align="center">Salut 👋🏼</h1>
 
 # 🌱 À propos de moi
