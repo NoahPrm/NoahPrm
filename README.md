@@ -1,34 +1,33 @@
-<h1 align="center">Hello, I'm Noah 👋</h1>
+<h1 align="center">Salut 👋🏼</h1>
 
-# 👤 About me
-- 🇫🇷 I'm a French developper
-- 📚 I know principals languages for developpement
-- 🍱 I love sushi
+# 🌱 À propos de moi
+> Je m'appelle Noah et je suis passionné de développement depuis maintenant bientôt 6 mois !</br>J'ai de superbes projets, découvre les plus bas ! 
 
-# 🛠 Developpement
-- 🚀 Python, Javascript, HTML & CSS
-- 💻 Visual Studio Code
+# 🌿 Compétences
+### 🍂 Développement 
+> Python</br>Javascript</br>HTML & CSS</br>WordPress</br>Installation de panel Pterodactyl
 
-# 📚 My projects
+> J'utilise principalement Visual Studio Code comme éditeur de texte.
 
-🤖 **Frostie**
-- 🌐 None
-- 💙 https://discord.gg/dhM7ST5cup
+### 🌴 Langages
+> Français</br>Anglais</br>Allemand
 
-🌙 **MoonLight Studio**
-- 🌐 None
-- 💛 https://discord.gg/3pptmcjEkB
+# 🍃 Mes superbes projets
 
-# 💼 Working for..
+### 💙 Frostie
+> [Serveur Discord](https://discord.gg/dhM7ST5cup)</br>[Site Web](https://frostie.fr)</br>[Twitter](https://twitter.com/FrostieSupport)</br>[TikTok](https://tiktok.com/@frostie.fr)
 
-🤖 **Clarty**
-- 🌐 https://clarty.org
-- 💜 https://discord.gg/gfGrr97R69
+### 🚀 Astral Hosting
+> [Serveur Discord](https://astral-hosting.fr/discord)</br>[Site Web](https://astral-hosting.fr)</br>[Twitter](https://astral-hosting.fr/twitter)</br>[TikTok](https://astral-hosting.fr/TikTok)
 
-🥛 **Milk' Studio**
-- 🌐 None
-- ❤️ https://discord.gg/gfGrr97R69
+# 💼 Je travaille pour...
 
-# 📊 Stats
+### 💜 Clarty
+> [Serveur Discord](https://discord.gg/gfGrr97R69)</br>[Site Web](https://clarty.org)</br>[Twitter](https://twitter.com/ClartySupport)</br>[TikTok](https://tiktok.com/@clarty.org)
+
+### 🫧 Bubbl's
+> [Serveur Discord](https://discord.gg/CtjU8mSUKw)</br>[Site Web](https://bubbls.fr)</br>[Twitter](https://twitter.com/The_Bubbls)
+
+# 📊 Statistiques
 
 <img src="https://myreadme.vercel.app/api/embed/NoahPrm?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
