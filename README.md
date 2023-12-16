@@ -15,8 +15,8 @@
 
 # 🍃 Mes superbes projets
 
-### 💙 Frostie
-> [Serveur Discord](https://discord.gg/dhM7ST5cup)</br>[Site Web](https://frostie.fr)</br>[Twitter](https://twitter.com/FrostieSupport)</br>[TikTok](https://tiktok.com/@frostie.fr)
+### 🔰 FluxBot
+> [Serveur Discord](https://discord.gg/Myzmmj4djA)
 
 ### 🚀 Astral Hosting
 > [Serveur Discord](https://astral-hosting.fr/discord)</br>[Site Web](https://astral-hosting.fr)</br>[Twitter](https://astral-hosting.fr/twitter)</br>[TikTok](https://astral-hosting.fr/TikTok)
