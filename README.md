@@ -1,34 +1,86 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1100777508829397043/1153011976239321248/Noah2-modified.png" height="128" width="128"></p>
-<h1 align="center">Salut 👋🏼</h1>
+<p align="center"><img src="https://github.com/NoahPrm.png" height="128" width="128" style="border-radius: 47%;"></p>
+<h1 align="left">Salut 👋🏼</h1>
 
-# 🌱 À propos de moi
-> Je m'appelle Noah et je suis passionné de développement depuis maintenant bientôt 6 mois !</br>J'ai de superbes projets, découvre les plus bas ! 
+Moi, c'est **Noah**, un développeur un peu comme les autres.
+Je suis particulièrement passionné par le développement web mais j'aime aussi apprendre de nouvelles choses!
+Je développe généralement des Bots Discord en Javascript, mais parfois aussi en Python!
 
-# 🌿 Compétences
-### 🍂 Développement 
-> Python</br>Javascript</br>HTML & CSS</br>WordPress</br>Installation de panel Pterodactyl
+## 🎯 Outils
 
-> J'utilise principalement Visual Studio Code comme éditeur de texte.
+[![](https://skillicons.dev/icons?i=discord,wordpress,git,postman,replit,vscode,flutter,github,androidstudio&perline=5)](https://github.com/NoahPrm)
 
-### 🌴 Langages
-> Français</br>Anglais</br>Allemand
+## 💻 Langages de Programmation
 
-# 🍃 Mes superbes projets
+[![](https://skillicons.dev/icons?i=js,html,css,ts,py,md,nodejs&perline=5)](https://github.com/NoahPrm)
 
-### 🔰 FluxBot
-> [Serveur Discord](https://discord.gg/Myzmmj4djA)
+## 💾 Frameworks/Base de données
 
-### 🚀 Astral Hosting
-> [Serveur Discord](https://astral-hosting.fr/discord)</br>[Site Web](https://astral-hosting.fr)</br>[Twitter](https://astral-hosting.fr/twitter)</br>[TikTok](https://astral-hosting.fr/TikTok)
+[![](https://skillicons.dev/icons?i=mongo,nextjs,vercel,netlify,bootstrap,tailwind,vite,vue&perline=5)](https://github.com/NoahPrm)
 
-# 💼 Je travaille pour...
+<details>
+  <summary><b>Mes Projets 🚀</b></summary>
+  <br/>
+   <h1>FluxBot ✨</h1>
+   🌐 <a href="https://fluxbot.eu" target="_blank">Site Web</a></br>
+   🎯 <a href="https://fluxbot.eu/discord" target="_blank">Serveur Discord</a></br>
+   🔗 <a href="https://discord.com/api/oauth2/authorize?client_id=1171552991690620969&permissions=8&scope=bot%20applications.commands" target="_blank">Ajouter FluxBot</a></br>
+   <br/>
 
-### 💜 Clarty
-> [Serveur Discord](https://discord.gg/gfGrr97R69)</br>[Site Web](https://clarty.org)</br>[Twitter](https://twitter.com/ClartySupport)</br>[TikTok](https://tiktok.com/@clarty.org)
+   <h1>Astra Hosting 🚀</h1>
+   🌐 <a href="https://astral-hosting.com" target="_blank">Site Web</a></br>
+   🎯 <a href="https://discord.gg/UQ64YNKEdE" target="_blank">Serveur Discord</a></br>
+   <br/>
+</details>
 
-### 🫧 Bubbl's
-> [Serveur Discord](https://discord.gg/CtjU8mSUKw)</br>[Site Web](https://bubbls.fr)</br>[Twitter](https://twitter.com/The_Bubbls)
+<details>
+  <summary><b>Statistiques GitHub 📊</b></summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=NoahPrm&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahPrm&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+</br>
+<details>
+  <summary><b>English Profile 🌐</b></summary>
+  <p align="center"><img src="https://github.com/NoahPrm.png" height="128" width="128" style="border-radius: 47%;"></p>
+<h1 align="left">Hello 👋🏼</h1>
 
-# 📊 Statistiques
+I'm **Noah**, a developer a bit like the others.
+I am particularly passionate about web development but I also like learning new things!
+I usually develop Discord Bots in Javascript, but sometimes also in Python!
 
-<img src="https://myreadme.vercel.app/api/embed/NoahPrm?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+## 🎯 Tools
+
+[![](https://skillicons.dev/icons?i=discord,wordpress,git,postman,replit,vscode,flutter,github,androidstudio&perline=5)](https://github.com/NoahPrm)
+
+## 💻 Programming Languages
+
+[![](https://skillicons.dev/icons?i=js,html,css,ts,py,md,nodejs&perline=5)](https://github.com/NoahPrm)
+
+## 💾 Frameworks/Database
+
+[![](https://skillicons.dev/icons?i=mongo,nextjs,vercel,netlify,bootstrap,tailwind,vite,vue&perline=5)](https://github.com/NoahPrm)
+
+<details>
+  <summary><b>My projects 🚀</b></summary>
+  <br/>
+   <h1>FluxBot ✨</h1>
+   🌐 <a href="https://fluxbot.eu" target="_blank">Website</a></br>
+   🎯 <a href="https://fluxbot.eu/discord" target="_blank">Discord Server</a></br>
+   🔗 <a href="https://discord.com/api/oauth2/authorize?client_id=1171552991690620969&permissions=8&scope=bot%20applications.commands" target="_blank">Add FluxBot</a></br>
+   <br/>
+
+   <h1>Astra Hosting 🚀</h1>
+   🌐 <a href="https://astral-hosting.com" target="_blank">Website</a></br>
+   🎯 <a href="https://discord.gg/UQ64YNKEdE" target="_blank">Discord Server</a></br>
+   <br/>
+</details>
+
+<details>
+  <summary><b>GitHub Stats 📊</b></summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=NoahPrm&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahPrm&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+</br>
+
+</details>
