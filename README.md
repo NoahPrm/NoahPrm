@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/NoahPrm.png" height="128" width="128" style="border-radius: 47%;"></p>
+<p align="center"><img src="https://github.com/NoahPrm.png" height="128" width="128" style="border-radius: 100%;"></p>
 <h1 align="left">Salut 👋🏼</h1>
 
 Moi, c'est **Noah**, un développeur un peu comme les autres.
