@@ -5,6 +5,8 @@ Moi, c'est **Noah**, un développeur un peu comme les autres.
 Je suis particulièrement passionné par le développement web mais j'aime aussi apprendre de nouvelles choses!
 Je développe généralement des Bots Discord en Javascript, mais parfois aussi en Python!
 
+<a href=""><img src="https://discord.c99.nl/widget/theme-3/949273553168121856.png" alt=""/></a>
+
 ## 🎯 Outils
 
 [![](https://skillicons.dev/icons?i=discord,wordpress,git,postman,replit,vscode,flutter,github,androidstudio&perline=5)](https://github.com/NoahPrm)
@@ -47,6 +49,8 @@ Je développe généralement des Bots Discord en Javascript, mais parfois aussi 
 I'm **Noah**, a developer a bit like the others.
 I am particularly passionate about web development but I also like learning new things!
 I usually develop Discord Bots in Javascript, but sometimes also in Python!
+
+<a href=""><img src="https://discord.c99.nl/widget/theme-3/949273553168121856.png" alt=""/></a>
 
 ## 🎯 Tools
 
