@@ -28,7 +28,7 @@ Je développe généralement des Bots Discord en Javascript, mais parfois aussi 
    🔗 <a href="https://discord.com/api/oauth2/authorize?client_id=1171552991690620969&permissions=8&scope=bot%20applications.commands" target="_blank">Ajouter FluxBot</a></br>
    <br/>
 
-   <h1>Astra Hosting 🚀</h1>
+   <h1>Astral Hosting 🚀</h1>
    🌐 <a href="https://astral-hosting.com" target="_blank">Site Web</a></br>
    🎯 <a href="https://discord.gg/UQ64YNKEdE" target="_blank">Serveur Discord</a></br>
    <br/>
@@ -73,7 +73,7 @@ I usually develop Discord Bots in Javascript, but sometimes also in Python!
    🔗 <a href="https://discord.com/api/oauth2/authorize?client_id=1171552991690620969&permissions=8&scope=bot%20applications.commands" target="_blank">Add FluxBot</a></br>
    <br/>
 
-   <h1>Astra Hosting 🚀</h1>
+   <h1>Astral Hosting 🚀</h1>
    🌐 <a href="https://astral-hosting.com" target="_blank">Website</a></br>
    🎯 <a href="https://discord.gg/UQ64YNKEdE" target="_blank">Discord Server</a></br>
    <br/>
