@@ -7,7 +7,7 @@ Full-Stack Developer
 A developer a bit like the others. I am particularly passionate about web development but I also like learning new things! I usually develop Discord Bots in Javascript, but sometimes also in Python!
 
 * 🌍  I'm based in Nice
-* 🖥️  See my portfolio at [noahprm.fr](http://noahprm.fr)
+* 🖥️  See my portfolio at [noahprm.tech](http://noahprm.tech)
 * ✉️  You can contact me at [noahprmt@gmail.com](mailto:noahprmt@gmail.com)
 * 🚀  I'm currently working on [FluxBot](http://fluxbot.eu)
 * 🧠  I'm learning something...
