@@ -8,7 +8,7 @@ A developer a bit like the others. I am particularly passionate about web develo
 
 * 🌍  I'm based in Nice
 * 🖥️  See my portfolio at [noahprm.fr](http://noahprm.fr)
-* ✉️  You can contact me at [noahprmt@gmail.com](mailtonoahprmt@gmail.com)
+* ✉️  You can contact me at [noahprmt@gmail.com](mailto:noahprmt@gmail.com)
 * 🚀  I'm currently working on [FluxBot](http://fluxbot.eu)
 * 🧠  I'm learning something...
 
