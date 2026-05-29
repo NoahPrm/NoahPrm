@@ -7,9 +7,10 @@ Full-Stack Developer
 A developer a bit like the others. I am particularly passionate about web development but I also like learning new things! I usually develop Discord Bots in Javascript, but sometimes also in Python!
 
 * 🌍  I'm based in Nice
-* 🖥️  See my portfolio at [noahprm.xyz](http://noahprm.xyz)
+* 🖥️  See my portfolio @ [noahprm.xyz](https://noahprm.xyz)
+* 📖  Read more on my blog @ [blog.noahprm.xyz](https://blog.noahprm.xyz)
 * ✉️  You can contact me at [hello@noahprm.xyz](mailto:hello@noahprm.xyz)
-* 🚀  I'm currently working on [Sentrix](http://sentrix-bot.xyz)
+* 🚀  I'm currently working on [Sentrix](https://sentrix-bot.xyz)
 * 🧠  I'm learning something...
 
 <a href="https://www.x.com/noahprm" target="_blank" rel="noreferrer"><img
